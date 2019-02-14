@@ -12983,11 +12983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programmeren 4\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "E:\\Programmeren 4\\Prog_4_OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "E:\\Programmeren 4\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "E:\\Programmeren 4\\Prog_4_OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\frederik.vanruyskens\\.nuget\\packages\\",
-      "outputPath": "E:\\Programmeren 4\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "E:\\Programmeren 4\\Prog_4_OdeToFood\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13006,8 +13006,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\Programmeren 4\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-              "projectPath": "E:\\Programmeren 4\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            "E:\\Programmeren 4\\Prog_4_OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+              "projectPath": "E:\\Programmeren 4\\Prog_4_OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
             }
           }
         }
